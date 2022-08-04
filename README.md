@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanglily08
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning Python, Mysql, Tableau
+- 🌱 I’m currently learning Python, Mysql, Tableau...
 - 💞️ I’m looking for entry level data analyst job
 - you can leave comments here to reach me.
 
